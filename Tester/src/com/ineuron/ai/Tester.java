@@ -4,7 +4,7 @@ public class Tester {
 
 	public static void main(String[] args) {
 //		pattern program to print characters from a to c 
-		
+		int a=100;
 		int n=10;
 		for(int i=0;i<n;i++)
 		{
